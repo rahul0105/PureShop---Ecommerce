@@ -1,3 +1,4 @@
+//change for the name
 import mongoose from "mongoose";
 import bycrpt from "bcryptjs";
 const userSchema = new mongoose.Schema(
