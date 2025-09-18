@@ -13,8 +13,7 @@ A full-featured e-commerce platform built with the MERN stack (MongoDB, Express.
 
 ## Live Demo
 
-- Frontend: [https://pureshop-frontend.vercel.app](https://pureshop-frontend.vercel.app)
-- Backend API: [https://pureshop-backend.onrender.com](https://pureshop-backend.onrender.com)
+https://pureshop-ecommerce-2.onrender.com/
 
 > Note: The demo links will be active after deployment. Please replace these placeholder URLs with your actual deployed URLs.
 
